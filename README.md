@@ -39,5 +39,6 @@ I'm a high school student in South Korea exploring network security and ethical 
 
 <strong> Contact me : </strong>
 
-Feel free to check out my repositories and reach out if you have any recommendations or tips on security projects! 
+Feel free to check out my repositories and reach out if you have any recommendations or tips on security projects!
+
 Gmail : Leocode28@gmail.com
