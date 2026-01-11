@@ -1,43 +1,43 @@
 Hi there, I'm Leonardo Patella!
 
-***About Me***
+## ***About Me***
 
 I'm a high school student in South Korea exploring network security and ethical hacking with an ultimate goal of becoming a red team member. 
 
-**Currently learning and practicing : **
+<strong> Currently learning and practicing : </strong>
 
 - Network security fundamentals
 - Ethical hacking techniques
 - Penetration testing methodologies
 - Security tool development
 
-**What im working on : **
+<strong> What im working on : </strong>
 
 - Sophisticating my coding knowledge by creating simple applications and vibe coding
 - Building security tools and automation scripts
 - Practicing real life situations throughout exercies such as but not limited to CaptureTheFlag (CTFs)
 
-**Languages and technologies : **
+<strong> Languages and technologies : </strong>
 
-*Programming languages :*
+*|| Programming languages :*
 
---> Python | Javascript | C/C++
+&rarr; Python | Javascript | C/C++
 
-*Practice platforms :*
+*|| Practice platforms :*
 
---> HackTheBox | TryHackMe | PicoCTF
+&rarr; HackTheBox | TryHackMe | PicoCTF
 
-*Security tools and attacks :*
+*|| Security tools and attacks :*
 
---> Metasploit | Nmap | Wireshark | Burp Suite | John the Ripper
+&rarr; Metasploit | Nmap | Wireshark | Burp Suite | John the Ripper
 
---> SQL Injection | Password cracking | Man-in-the-middle (MITM) | Brute Force
+&rarr; SQL Injection | Password cracking | Man-in-the-middle (MITM) | Brute Force
 
-*Operating systems :*
+*|| Operating systems :*
 
---> Kali Linux | Ubuntu | Windows
+&rarr; Kali Linux | Ubuntu | Windows
 
-**Contact me : **
+<strong> Contact me : </strong>
 
 Feel free to check out my repositories and reach out if you have any recommendations or tips on security projects! 
 Gmail : Leocode28@gmail.com
