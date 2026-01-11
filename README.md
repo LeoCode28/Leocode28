@@ -1,23 +1,23 @@
 Hi there, I'm Leonardo Patella!
 
-## ***About Me***
+# ***About Me***
 
 I'm a high school student in South Korea exploring network security and ethical hacking with an ultimate goal of becoming a red team member. 
 
-<strong> Currently learning and practicing : </strong>
+## <strong> Currently learning and practicing : </strong>
 
 - Network security fundamentals
 - Ethical hacking techniques
 - Penetration testing methodologies
 - Security tool development
 
-<strong> What im working on : </strong>
+## <strong> What im working on : </strong>
 
 - Sophisticating my coding knowledge by creating simple applications and vibe coding
 - Building security tools and automation scripts
 - Practicing real life situations throughout exercies such as but not limited to CaptureTheFlag (CTFs)
 
-<strong> Languages and technologies : </strong>
+## <strong> Languages and technologies : </strong>
 
 *|| Programming languages :*
 
@@ -37,7 +37,7 @@ I'm a high school student in South Korea exploring network security and ethical 
 
 &rarr; Kali Linux | Ubuntu | Windows
 
-<strong> Contact me : </strong>
+## <strong> Contact me : </strong>
 
 Feel free to check out my repositories and reach out if you have any recommendations or tips on security projects!
 
