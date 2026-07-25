@@ -2,7 +2,7 @@ Hi there, I'm Leonardo Patella!
 
 # ***About Me***
 
-I'm a high school student in South Korea exploring network security and ethical hacking with an ultimate goal of becoming a red team member. 
+I'm a student in France exploring network security and ethical hacking with an ultimate goal of becoming a red team member. 
 
 ## <strong> Currently learning and practicing : </strong>
 
